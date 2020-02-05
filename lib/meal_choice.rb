@@ -7,4 +7,4 @@ end
 
 meal_choice("broccoli", "macaroni", "tofu")
 
-meal_choice("broccoli", "macaroni")
+return meal_choice("broccoli", "macaroni")
