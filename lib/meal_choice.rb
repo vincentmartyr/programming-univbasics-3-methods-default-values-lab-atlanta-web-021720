@@ -9,6 +9,6 @@ meal_choice("broccoli", "macaroni", "tofu")
 
 meal_choice("broccoli", "macaroni")
 
-a = meal_choice
+a = meal_choice("broccoli", "macaroni")
 
 return a
