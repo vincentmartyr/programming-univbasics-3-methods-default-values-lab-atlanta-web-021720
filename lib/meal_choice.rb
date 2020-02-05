@@ -11,4 +11,6 @@ end
 
 a = meal_choice("broccoli", "macaroni")
 
+puts a
+
 return a
